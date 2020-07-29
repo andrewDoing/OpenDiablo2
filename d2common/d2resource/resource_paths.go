@@ -195,9 +195,9 @@ const (
 	Skills           = "/data/global/excel/skills.txt"
 	SkillDesc        = "/data/global/excel/skilldesc.txt"
 	TreasureClass    = "/data/global/excel/TreasureClassEx.txt"
-	States			 = "/data/global/excel/states.txt"
-
-	MonProp = "/data/global/excel/Monprop.txt"
+	States           = "/data/global/excel/states.txt"
+	Shrines          = "/data/global/excel/shrines.txt"
+	MonProp          = "/data/global/excel/Monprop.txt"
 
 	// --- Animations ---
 

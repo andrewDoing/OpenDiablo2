@@ -250,6 +250,7 @@ func (a *App) loadDataDict() error {
 		{d2resource.AutoMagic, d2datadict.LoadAutoMagicRecords},
 		{d2resource.TreasureClass, d2datadict.LoadTreasureClassRecords},
 		{d2resource.States, d2datadict.LoadStates},
+		{d2resource.Shrines, d2datadict.LoadShrines},
 	}
 
 	d2datadict.InitObjectRecords()
